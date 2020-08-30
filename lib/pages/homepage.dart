@@ -9,7 +9,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(Icons.camera),
+        child: Icon(Icons.photo_camera),
       ),
       bottomNavigationBar: BottomNavigationBar(
         items: [
